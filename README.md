@@ -23,12 +23,6 @@ Bu projeyi çalıştırmak için aşağıdaki Python paketlerine ihtiyaç vardı
 * `accelerate`
 * `torch`
 
-Gereksinimleri yüklemek için:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Kullanım
 
 1. Gerekli paketleri yükleyin.
